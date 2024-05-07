@@ -24,10 +24,12 @@
 <!-- Links -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-porto1/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.kaggle.com/variablebee](https://mail.google.com/mail/?view=cm&fs=1&to=wellingtoncsp25@gmail.com&su=SUBJECT&body=BODY))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=wellingtoncsp25@gmail.com&su=SUBJECT&body=BODY)
 
 <!-- GithubStats-->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtoncsp&show_icons=true&theme=gotham)
+ <img height="195em" src="https://github-readme-stats.vercel.app/api?username=wellingtoncsp&show_icons=true&theme=holi"/> <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtoncsp&layout=compact&langs_count=6&theme=holi"/>
+
+
 
 <!-- Portfolio 
 ## Portfolio:
@@ -45,24 +47,24 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="C#" height="40" width="40" src="https://github.com/wellingtoncsp/wellingtoncsp/blob/main/icons/do-sustenido.png">
+    <img align="center" alt="java" height="40" width="40" src="https://github.com/wellingtoncsp/wellingtoncsp/blob/main/icons/java.png">
+    <img align="center" alt="python" height="40" width="40" src="https://github.com/wellingtoncsp/wellingtoncsp/blob/main/icons/python.png">
+    <img align="center" alt="js" height="40" width="40" src="https://github.com/wellingtoncsp/wellingtoncsp/blob/main/icons/js.png">
+
   </div>
   
-  <!-- Skills: Tools & Frameworks 
+  <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+    <img align="center" alt="visual-studio" height="40" width="40" src="https://github.com/wellingtoncsp/wellingtoncsp/blob/main/icons/visual.png">
+    <img align="center" alt="sql-server" height="40" width="40" src="https://github.com/wellingtoncsp/wellingtoncsp/blob/main/icons/sql-server.png">
+    <img align="center" alt="postgre" height="40" width="40" src="https://github.com/wellingtoncsp/wellingtoncsp/blob/main/icons/postgre.png">
+    <img align="center" alt="mysql" height="40" width="40" src="https://github.com/wellingtoncsp/wellingtoncsp/blob/main/icons/mysql.png">
+    
   </div>
   
-  <!-- Skills: Libraries 
+  <!-- Skills: Libraries
   <div style="flex-basis: 48%;">
     <h3>Libraries</h3>
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
