@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="100" src="icons/do-sustenido.png"  />
+  <img height="100" src="icons/425af48b-6e63-430d-9e17-50d3bf6ce684.JPG"  />
 </div>
 
 ###
