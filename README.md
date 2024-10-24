@@ -1,74 +1,104 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World 👋</h1></summary>
+<br clear="both">
+
+<div align="center">
+  <img height="100" src="icons/do-sustenido.png"  />
 </div>
 
-<!-- Presentation -->
-<p>
-  OI, Eu sou wellington! Desenvolvedor de software e sempre em busca de novos conhecimentos.
+###
 
-  - 🌱 Atualmente estudando inglês e react native.
+<div align="center">
+  <a href="https://www.linkedin.com/in/wellington-porto1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wellingtoncsp25@gmail.com&su=SUBJECT&body=BODY" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-  - 🔭 Em busca de uma nova oportunidade como programador.
-</p>
+###
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-<p>
-  - 💬Tenho 33 anos, atualmente moro em Brasília 🇧🇷. Estou no processo de contrução da minha fluência em inglês
-</p>
-</details>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wellingtoncsp.wellingtoncsp&"  />
+</div>
 
-<!-- Links -->
+###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-porto1/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=wellingtoncsp25@gmail.com&su=SUBJECT&body=BODY)
+<h1 align="center">Hello World 👋</h1>
 
-<!-- GithubStats-->
- <img height="195em" src="https://github-readme-stats.vercel.app/api?username=wellingtoncsp&show_icons=true&theme=holi"/> <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtoncsp&layout=compact&langs_count=6&theme=holi"/>
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
 
-<!-- Portfolio 
-## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
--->
-<!-- GIF 
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
--->
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="C#" height="40" width="40" src="https://github.com/wellingtoncsp/wellingtoncsp/blob/main/icons/do-sustenido.png">
-    <img align="center" alt="java" height="40" width="40" src="https://github.com/wellingtoncsp/wellingtoncsp/blob/main/icons/java.png">
-    <img align="center" alt="python" height="40" width="40" src="https://github.com/wellingtoncsp/wellingtoncsp/blob/main/icons/python.png">
-    <img align="center" alt="js" height="40" width="40" src="https://github.com/wellingtoncsp/wellingtoncsp/blob/main/icons/js.png">
+<p align="left">I'm a software developer from Brazil with experience in system development and agile methods like Scrum.<br><br>🔭 Currently looking for new opportunities as a programmer.<br>📚 I’m studying English and learning more about mobile development.<br>⚡ In my free time, I like working on personal projects and exploring new tech.</p>
 
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="visual-studio" height="40" width="40" src="https://github.com/wellingtoncsp/wellingtoncsp/blob/main/icons/visual.png">
-    <img align="center" alt="sql-server" height="40" width="40" src="https://github.com/wellingtoncsp/wellingtoncsp/blob/main/icons/sql-server.png">
-    <img align="center" alt="postgre" height="40" width="40" src="https://github.com/wellingtoncsp/wellingtoncsp/blob/main/icons/postgre.png">
-    <img align="center" alt="mysql" height="40" width="40" src="https://github.com/wellingtoncsp/wellingtoncsp/blob/main/icons/mysql.png">
-    
-  </div>
-  
-  <!-- Skills: Libraries
-  <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </div>
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=wellingtoncsp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src=""  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src=""  />
+</div>
+
+###
